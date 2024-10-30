@@ -12,13 +12,10 @@ Hongsheng Li<sup>1</sup>*
 
 
 ```bibtext
-@misc{wang2024stableconsistencytuningunderstanding,
-      title={Stable Consistency Tuning: Understanding and Improving Consistency Models}, 
-      author={Fu-Yun Wang and Zhengyang Geng and Hongsheng Li},
-      year={2024},
-      eprint={2410.18958},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.18958}, 
+@article{wang2024stable,
+  title={Stable Consistency Tuning: Understanding and Improving Consistency Models},
+  author={Wang, Fu-Yun and Geng, Zhengyang and Li, Hongsheng},
+  journal={arXiv preprint arXiv:2410.18958},
+  year={2024}
 }
 ```
